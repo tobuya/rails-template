@@ -115,7 +115,7 @@ rubocop -A
 👤 **Thomas Obuya**
 
 - [GitHub](https://github.com/tobuya)
-- [Twitter](https://twitter.com/MullerTheGreat1)
+- [Medium](https://medium.com/@tobuya)
 - [LinkedIn](https://linkedin.com/in/tobuya)
 
 
