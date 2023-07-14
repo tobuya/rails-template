@@ -77,10 +77,21 @@ bundle install
 
 ### 💾 Database
 
-Create the databases and run migrations with:
+
+Configure the database connection
+- Open `config/database.yml` file and ensure that the database configuration matches your PostgreSQL setup by updating the `username`, `password`, and other relevant settings in the `default` section to match your PostgreSQL configuration.
+- Also, update the `development`, `test`, and `production` sections to match your project configuration.
+
+Create the database by running the following command:
 
 ```sh
 rails db:create
+```
+
+*At this point, Ruby on Rails application with a PostgreSQL database is customized and can be modified to one's liking by adding models, controllers and other components to build their desired system*
+
+To run the migrations:
+```sh
 rails db:migrate
 ```
 
