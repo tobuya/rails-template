@@ -154,7 +154,7 @@ If you like this project, please consider giving it a ⭐.
 
 ## 🙏 Acknowledgements
 
-I would like to acknowledge anyone who would like to contribute to this project. Feel free to customize the template further, adding your own models, controllers, views, and other components to build your desired application
+I would like to acknowledge anyone who would like to contribute to this project. Feel free to customize the template further, adding your own models, controllers, and other components to build your desired application
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
